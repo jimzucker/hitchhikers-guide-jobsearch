@@ -21,7 +21,9 @@ Test it with tools like Jobscan or Resume Worded to ensure it's ATS-friendly. Th
 It's about $70 for a 3-month subscription, and you get 2 free scans to play with it:
 Here is a link for a trial:  [jobscan.io trial](https://www.jobscan.co?ref=4767321&utm_source=referral-program&utm_medium=referral&utm_campaign=10-scan-referral-program)
 
-![Alt Text](Image URL)
+<div style="text-align: center;">
+<img src="images/jobscan.png" alt="Jobscan" style="width:40%;">
+</div>  
 
 
 ## STEP 3: Score your current Resume
@@ -42,16 +44,21 @@ Run your LinkedIn profile and resume through it using the Job Descriptions you t
 ### c. Look through your bullets and reword things using the terms you see that you don't have to increase your score.
 
 ### d. now if you click on a skill it will give you recommended bullets
-<img src="images/AI-generated-bullets.png" alt="AI Generated Bullets" style="width:30%;">  
+<div style="text-align: center;">
+<img src="images/AI-generated-bullets.png" alt="AI Generated Bullets" style="width:40%;">
+</div>  
 ### e. once you are at 75%+ remove your summary and use the tool to auto generate one for you with AI it's pretty cool.
-<img src="images/summary-example.png" alt="Generate Summary" style="width:30%;">  
-<img src="images/AI-generate-summary.png" alt="Summary Example" style="width:30%;">  
-
+<div style="text-align: center;">
+<img src="images/summary-example.png" alt="Generate Summary" style="width:40%;">  
+<img src="images/AI-generate-summary.png" alt="Summary Example" style="width:40%;">  
+</div>  
 <u>Example resume before and after</u>
 - [My resume 'Before'](examples/before-JimZucker.pdf)
 - [My resume 'After'](examples/after-JimZucker.pdf)
 
-## STEP 5: Update your LinkedIn Profile to match the resume, WARNING: Don't publish yet, we will do that when we are all done and share it with your network!
+## STEP 5: Update your LinkedIn Profile to match the resume
+
+WARNING: Don't publish yet, we will do that when we are all done and share it with your network!
 
 You are going to put all of the bullets in your resume into your LinkedIn profile, don't be shy! and use the '♦' bullet like I have in my profe [Jim Zucker LinkedIn Profile](https://www.linkedin.com/in/jim-zucker/)
 
@@ -86,12 +93,14 @@ Some other great references to wramp up new techs
 Note: If you already are set to this turn it off and back on to publish and get the LinkedIn profile out there!
 
 ### Here put all the 'standard' titles you are interested in, I put 'Solutions Architect' and 'Engineering Manager'
-<img src="images/OpenToWork-screen1.png" alt="Put your standard title" style="width:30%;">
-  
+<div style="text-align: center;">
+<img src="images/OpenToWork-screen1.png" alt="Put your standard title" style="width:40%;">
+</div>  
 
 ### you can set open for work and only make it visible to recruiters
-<img src="images/OpenToWork-screen2.png" alt="Dont show network" style="width:30%;">
-  
+<div style="text-align: center;">
+<img src="images/OpenToWork-screen2.png" alt="Dont show network" style="width:40%;">
+</div>    
 
 <u>YOU WANT PUBLISH to your network if you are being PUBLIC!!</u>
   
