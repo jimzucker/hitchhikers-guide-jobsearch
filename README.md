@@ -45,7 +45,7 @@ c. Look through your bullets and reword things using the terms you see that you 
 
 d. now if you click on a skill it will give you recommended bullets
 <div style="text-align: center;">
-<img src="images/AI-generated-bullets.png" alt="AI Generated Bullets" style="width:40%;">
+<img src="images/AI-generated-bullets.png" alt="AI-Generated Bullets" style="width:40%;">
 </div>  
 ### e. once you are at 75%+ remove your summary and use the tool to auto generate one for you with AI it's pretty cool.
 <div style="text-align: center;">
@@ -60,7 +60,7 @@ d. now if you click on a skill it will give you recommended bullets
 
 WARNING: Don't publish yet, we will do that when we are all done and share it with your network!
 
-You are going to put all of the bullets in your resume into your LinkedIn profile, don't be shy! and use the '♦' bullet like I have in my profe [Jim Zucker LinkedIn Profile](https://www.linkedin.com/in/jim-zucker/)
+You are going to put all of the bullets in your resume into your LinkedIn profile, don't be shy! and use the '♦' bullet like I have in my profile [Jim Zucker LinkedIn Profile](https://www.linkedin.com/in/jim-zucker/)
 
 <u>Pro-Tip:</u> Make sure you have claimed a Public profile & URL and from what I read <first>-<last> is the best format.
 
@@ -72,7 +72,7 @@ c. Make sure you have your certs in the certs section, if you don't have any, ge
 
 ## <u>References:</u>
 ### Here is one that is easy and worthwhile
-- [Apache Kakfa Fundamenals Accreditation](https://training.confluent.io/channeldetail/apache-kafka-fundamentals-and-accreditation) (This also gives you a cert you can put on your resume!)  
+- [Apache Kakfa Fundamentals Accreditation](https://training.confluent.io/channeldetail/apache-kafka-fundamentals-and-accreditation) (This also gives you a cert you can put on your resume!)  
 - I recommend everyone does this to understand what the buzz is about: [Zero to Snowflake in 90 minutes](https://www.snowflake.com/webinars/virtual-hands-on-labs/zero-to-snowflake-in-90-minutes-2024-08-21/?utm_source=google&utm_medium=paidsearch&utm_campaign=na-us-en-brand-core-phrase&utm_content=go-rsa-evg-vh-next-vhol-americas&utm_term=c-g-snowflake-p-657474892216&gad_source=1&gbraid=0AAAAADCzRJUUWudt4eBUxV9mZKm7CVe5f&gclid=Cj0KCQjwt4a2BhD6ARIsALgH7DoPWTSfXxDp2RWImU_eOEgRyXOD_-yajSo-NHmZOIGWHq3nu6AaPdkaAhaSEALw_wcB)  
 
 ## <u>Certifications to enhance Resume</u>
@@ -85,7 +85,7 @@ c. Make sure you have your certs in the certs section, if you don't have any, ge
 - [Snowfloke Certification](https://www.snowflake.com/certifications/)  
   
 Some other great references to wramp up new techs
-- [Confluent Developer - hands on labs](https://developer.confluent.io/?utm_medium=sem&utm_source=google&utm_campaign=ch.sem_br.nonbrand_tp.prs_tgt.dsa_mt.dsa_rgn.namer_lng.eng_dv.all_con.resources&utm_term=&creative=&device=c&placement=&gad_source=1&gbraid=0AAAAADRv2c0fJu7nuIcPD-cwX9-Z6qCN6&gclid=Cj0KCQjwt4a2BhD6ARIsALgH7DpQmmmNS6f74ddqjZVEONW9gCvW3zku3sAKRlnEQSj98W-Pd2yKtCsaAiFUEALw_wcB)  
+- [Confluent Developer - hands-on labs](https://developer.confluent.io/?utm_medium=sem&utm_source=google&utm_campaign=ch.sem_br.nonbrand_tp.prs_tgt.dsa_mt.dsa_rgn.namer_lng.eng_dv.all_con.resources&utm_term=&creative=&device=c&placement=&gad_source=1&gbraid=0AAAAADRv2c0fJu7nuIcPD-cwX9-Z6qCN6&gclid=Cj0KCQjwt4a2BhD6ARIsALgH7DpQmmmNS6f74ddqjZVEONW9gCvW3zku3sAKRlnEQSj98W-Pd2yKtCsaAiFUEALw_wcB)  
 - [Snowflake Hands-On Labs(that give you a cert for your LinkedIn Profile)](https://www.snowflake.com/en/resources/learn/snowflake-essentials-training/)  
 
 ## STEP 6: Mark yourself 'OPEN FOR WORK'
@@ -124,7 +124,7 @@ b. Setup profiles on all of these boards nd make your resume searchable:
   
   
 ## STEP 8: Apply to 3-10(ideally 10) jobs per day
-Take the time to create a custom resume using jobscan.co. From my experience I had 125-190 rejects submitting without taking the time to do this. My first day I did this for AWS and a recruiter called me the next day.
+Take the time to create a custom resume using jobscan.co. From my experience I had 125-190 rejects submitting without taking the time to do this. The first day I did this for AWS and a recruiter called me the next day.
 
 a. Tune the resume to at least 75% in jobscan.co
 
