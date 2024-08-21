@@ -76,7 +76,7 @@ __Pro-Tips:__
 - Build your brand, if your email is not clear like <first>-<last>@gmail.com create a new one so communications are clear.
 - On LinkedIn make sure you have claimed a Public profile & URL and from what I read <first>-<last> is the best format. [Manage your public profile URL](https://www.linkedin.com/help/linkedin/answer/a542685/)
 
-### Here is one that is easy and worthwhile 
+### Here is one that is easy and worthwhile (it gives you a cert!)
 - [Apache Kakfa Fundamentals Accreditation](https://training.confluent.io/channeldetail/apache-kafka-fundamentals-and-accreditation) (This also gives you a cert you can put on your resume!)  
 
 ### I recommend everyone does this for SnowFlake to understand what the tech is about(no cert sorry)
@@ -91,7 +91,7 @@ __Pro-Tips:__
 - [Google Cloud Certification](https://cloud.google.com/learn/certification)  
 - [Snowflake Certification](https://www.snowflake.com/certifications/)  
   
-Some other great references to ramp up new techs
+### Some other great references to ramp up new techs
 - [Confluent Developer - hands-on labs](https://developer.confluent.io/?utm_medium=sem&utm_source=google&utm_campaign=ch.sem_br.nonbrand_tp.prs_tgt.dsa_mt.dsa_rgn.namer_lng.eng_dv.all_con.resources&utm_term=&creative=&device=c&placement=&gad_source=1&gbraid=0AAAAADRv2c0fJu7nuIcPD-cwX9-Z6qCN6&gclid=Cj0KCQjwt4a2BhD6ARIsALgH7DpQmmmNS6f74ddqjZVEONW9gCvW3zku3sAKRlnEQSj98W-Pd2yKtCsaAiFUEALw_wcB)  
 - [Snowflake Hands-On Labs(that give you a cert for your LinkedIn Profile)](https://www.snowflake.com/en/resources/learn/snowflake-essentials-training/)  
 
@@ -151,7 +151,7 @@ c. After the resume is tunned, check the cover letter AI generator It is pretty 
 ## Intro to New Techs almost anyone can do these
 - [Zero to Snowflake in 90 minutes](https://www.snowflake.com/webinars/virtual-hands-on-labs/zero-to-snowflake-in-90-minutes-2024-08-21/?utm_source=google&utm_medium=paidsearch&utm_campaign=na-us-en-brand-core-phrase&utm_content=go-rsa-evg-vh-next-vhol-americas&utm_term=c-g-snowflake-p-657474892216&gad_source=1&gbraid=0AAAAADCzRJUUWudt4eBUxV9mZKm7CVe5f&gclid=Cj0KCQjwt4a2BhD6ARIsALgH7DoPWTSfXxDp2RWImU_eOEgRyXOD_-yajSo-NHmZOIGWHq3nu6AaPdkaAhaSEALw_wcB)  
 
-## The are more technical but not time consuming
+## These are more technical but not time consuming
 - [Hands On: Your First Apache Kafka® Application in 10 Minutes or Less](https://developer.confluent.io/courses/apache-kafka/get-started-hands-on/?utm_medium=nurtureemail&utm_campaign=tm.lifecycle_cd.developer-journey-nurture-using-kafka-email-8_prg.dj_rgn.global_&utm_source=marketo&mkt_tok=NTgyLVFIWC0yNjIAAAGVD7ZVA3Za8J5k49YOxM0XML5uSX562gY6hYctn1Q1y8cvI7ZTxDeV215kCNeVnoefezwVkxjFKExJp4dWx2n-OrdvoH_67zbLyFHMnt67b2MJRLE)  
 - [Apache Kakfa Fundamentals Accreditation](https://training.confluent.io/channeldetail/apache-kafka-fundamentals-and-accreditation) (This also gives you a cert you can put on your resume!) 
 
