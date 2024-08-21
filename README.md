@@ -67,9 +67,21 @@ You are going to put all of the bullets in your resume into your LinkedIn profil
 
 a. Update each section, I know it hurts to make the titles standard, you can keep your SVP title but make it SVP <standard Title>
 
-b. Now pile up the skills on each experience, dupicates are OK don't be shy.
+b. Make sure your 'Headline' is your chose 'job title' ie AWS Solutions Architect, you can put multiple in format 'title1 | title2' but the more focused are the better.
 
-c. Make sure you have your certs in the certs section, if you don't have any, get some they are VERY Creditable.  
+c. Pick a banner for your linked in page: 
+- [10 LinkedIn Background Photo Ideas To Make Your Profile Stand Out](https://www.forbes.com/sites/josephliu/2019/06/17/linkedin-background-photo/)
+
+d. Make sure you have updated your email, contact info and also setup a public URL: 
+- [LinkedIn: Customising Your LinkedIn Public Profile URL like a Pro](https://www.linkedin.com/pulse/customising-your-linkedin-public-profile-url-like-pro-darren-keppie/)
+- [If your real name is not available as your LinkedIn public URL, what is the next best solution?](https://www.quora.com/If-your-real-name-is-not-available-as-your-LinkedIn-public-URL-what-is-the-next-best-solution)
+
+e. Updae you profile picture: 
+- [10 Tips for Taking a Professional LinkedIn Profile Photo](https://www.linkedin.com/business/talent/blog/product-tips/tips-for-taking-professional-linkedin-profile-pictures)
+
+f. Now pile up the skills on each experience, dupicates are OK don't be shy.
+
+g. Make sure you have your certs in the certs section, if you don't have any, get some they are VERY Creditable.  
 
 __Pro-Tips:__ 
 - You want to make the process as easy as possible for the recruiters and hiring company.
@@ -159,11 +171,4 @@ c. After the resume is tunned, check the cover letter AI generator It is pretty 
 - [Learn Apache Kafka® & Flink®](https://developer.confluent.io/courses/#fundamentals)
 - [Your Guide to Flink SQL: An In-Depth Exploration](https://www.confluent.io/blog/getting-started-with-apache-flink-sql/)
 - [Snowflake HANDS ON ESSENTIALS - Essentials Workshops are highly interactive, totally free, self-paced, online courses for learners who are new to Snowflake or new to data work in general **These give you badges that can generate LinkedIn posts and you can add to your LinkedIn Profile!**](https://www.snowflake.com/en/resources/learn/snowflake-essentials-training/)
-
-# References
-- [10 Tips for Taking a Professional LinkedIn Profile Photo](https://www.linkedin.com/business/talent/blog/product-tips/tips-for-taking-professional-linkedin-profile-pictures)
-- [10 LinkedIn Background Photo Ideas To Make Your Profile Stand Out](https://www.forbes.com/sites/josephliu/2019/06/17/linkedin-background-photo/)
-- [LinkedIn: Customising Your LinkedIn Public Profile URL like a Pro](https://www.linkedin.com/pulse/customising-your-linkedin-public-profile-url-like-pro-darren-keppie/)
-- [If your real name is not available as your LinkedIn public URL, what is the next best solution?](https://www.quora.com/If-your-real-name-is-not-available-as-your-LinkedIn-public-URL-what-is-the-next-best-solution)
-
 
