@@ -158,6 +158,11 @@ b. Don't forget to delete and generate a new summary (I usually update it to add
 
 c. After the resume is tunned, check the cover letter AI generator It is pretty cool
 
+## STEP 9: Create one LinkedIn post a week and attend 1 webinar/week to stay relevant 
+Create something, celebrate completing training or repost something relevant each week and try to attend a relevant webinar each week.
+  
+According to Hubspot's 2023 report on the best times to post on social media, the sweet spots for sharing content on LinkedIn are: Between 9 am to 12 pm, 12 to 3 pm, or 3-6 pm. Mondays, Wednesdays and Tuesdays, in that order. [The best time to post content on LinkedIn](https://www.linkedin.com/business/marketing/blog/linkedin-ads/whats-the-best-time-to-post-on-linkedin#:~:text=The%20Best%20Times%20to%20Post%20Content%20on%20LinkedIn&text=According%20to%20Hubspot%27s%202023%20report,and%20Tuesdays%2C%20in%20that%20order.)  
+
 # Some great self-paced training opportunities
 
 ## Intro to New Techs almost anyone can do these
