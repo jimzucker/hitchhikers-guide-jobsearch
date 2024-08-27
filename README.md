@@ -147,7 +147,7 @@ b. Setup profiles on all of these boards nd make your resume searchable:
 ## STEP 8: Apply to 3-10(ideally 10) jobs per day
 Take the time to create a custom resume using jobscan.co. From my experience I had 125-190 rejects submitting without taking the time to do this. The first day I did this for AWS and a recruiter called me the next day.
 
-a. Tune the resume to at least 75% in jobscan.co for each job, change your title to match the JD exactly, remove tiltes unrealed so you don't cause confusion.
+a. Tune the resume to at least 75% in jobscan.co for each job, change your title to match the JD exactly, and remove titles unrelated so you don't cause confusion.
 
 b. Don't forget to delete and generate a new summary (I usually update it to add some of the soft/hard skills after AI is done)
 
@@ -157,9 +157,11 @@ b. Don't forget to delete and generate a new summary (I usually update it to add
 </div>  
 
 c. After the resume is tunned, check the cover letter AI generator It is pretty cool
-
+  
+**Keep in mind whenever possible have somebody in your network submit your resume as a referral that gives you the highest probability of success!**
+  
 ## STEP 9: Create one LinkedIn post a week and attend 1 webinar/week to stay relevant 
-Create something, celebrate completing training or repost something relevant each week and try to attend a relevant webinar each week.
+Create something, celebrate completing training, or repost something relevant each week and try to attend a relevant webinar each week.
   
 According to Hubspot's 2023 report on the best times to post on social media, the sweet spots for sharing content on LinkedIn are: Between 9 am to 12 pm, 12 to 3 pm, or 3-6 pm. Mondays, Wednesdays and Tuesdays, in that order. [The best time to post content on LinkedIn](https://www.linkedin.com/business/marketing/blog/linkedin-ads/whats-the-best-time-to-post-on-linkedin#:~:text=The%20Best%20Times%20to%20Post%20Content%20on%20LinkedIn&text=According%20to%20Hubspot%27s%202023%20report,and%20Tuesdays%2C%20in%20that%20order.)  
 
