@@ -1,4 +1,4 @@
-# Hitch Hikers Guild to Job Searches
+# Hitch Hikers Guide to Job Searches
 
 Based on trial and error and reading a lot of blogs here are the tips and tricks I found to making it easy for Recruiters and Hiring Managers to find you and relate you to a job they are looking for.  
 
