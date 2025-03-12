@@ -19,7 +19,7 @@ Test it with tools like Jobscan or Resume Worded to ensure it's ATS-friendly. Th
 
 ### I selected jobscan.co(there are others)
 It's about $70 for a 3-month subscription, and you get 2 free scans to play with it.
-Here is a link for a trial:  [jobscan.io trial](https://www.jobscan.co?ref=4767321&utm_source=referral-program&utm_medium=referral&utm_campaign=10-scan-referral-program)
+Here is a link for a trial:  [jobscan.co trial](https://www.jobscan.co?ref=4767321&utm_source=referral-program&utm_medium=referral&utm_campaign=10-scan-referral-program)
 
 <div style="text-align: center;">
 <img src="images/jobscan.png" alt="Jobscan" style="width:40%;">
