@@ -87,8 +87,8 @@ __Pro-Tips:__
 - You want to make the process as easy as possible for the recruiters and hiring company.
 - Build your brand, if your email is not clear like firstname-lastname@gmail.com create a new one so communications are clear.
 - On LinkedIn make sure you have claimed a Public profile & URL and from what I read "first-last" is the best format. [Manage your public profile URL](https://www.linkedin.com/help/linkedin/answer/a542685/)
-- Make our linked in profile match you're resume put all of the points from resume on your LinkedIn
-- On Linked in use a '♦ xxxx' for each point, you can copy paste it here, see my profile [https://www.linkedin.com/in/jim-zucker/](https://www.linkedin.com/in/jim-zucker/)
+- Make our LinkedIn profile match you're resume put all of the points from resume on your LinkedIn
+- On LinkedIn use a '♦ xxxx' for each point, you can copy paste it here, see my profile [https://www.linkedin.com/in/jim-zucker/](https://www.linkedin.com/in/jim-zucker/)
 
 ### Here is one that is easy and worthwhile (it gives you a cert!)
 - [Apache Kakfa Fundamentals Accreditation](https://training.confluent.io/channeldetail/apache-kafka-fundamentals-and-accreditation) (This also gives you a cert you can put on your resume!)  
