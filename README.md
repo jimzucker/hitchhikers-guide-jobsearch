@@ -168,7 +168,7 @@ _Note you do have to buy credits to bid for jobs
 The goal here is to:
 1. Show on your LinkedIn profile and resuem you are working as a consultant
 <div style="text-align: center;">
-      <img alt="image" src="[https://github.com/user-attachments/assets/d5a03966-52e8-4305-a69d-25491e9d407b](https://github.com/user-attachments/assets/5545895d-5c97-4394-b23f-c510a4ed07cf)" style="width:40%;">
+      <img alt="image" src="https://github.com/user-attachments/assets/5545895d-5c97-4394-b23f-c510a4ed07cf" style="width:40%;">
 </div>  
 2. You are doing 'gigs' to create achievements you can learn from an talk about and add to your profile under this
 3. Bid low and get some experience, if anyone asks how much you made on it, they shouldnt, you can say it is < $50/hr.  you do it to gain the experience not the money.  Sucess Story - my cousin did this and ended up with a job out of it for > 1 year becuase the company liked the gigs he did.
