@@ -145,8 +145,35 @@ b. Setup profiles on all of these boards nd make your resume searchable:
 - [theladders.com](https://www.theladders.com)
 - [wellfounded.com](https://wellfound.com)  
   
+## STEP 8: (Opotional) - Signup for a free JIRA and run a Kanban Board
+JIRA is the most widely used task tracking systems used in software development to run KANBAN and AGILE project management.  I suggest you put all of your tasks in here in a Kanban and learn to plan a weeks tasks and manage the due dates and status on the KANBAN board.
+
+Recommend you 
+a. signup (it's FREE!) - [atlassian.com/sofware/jira]([https://wellfound.com](https://www.atlassian.com/software/jira))   
+b. pick 'Software Development' and 'Kanban' and then Tasks
+c. create steps, TO Do, Planned, In-progress & Done
+d. Enter you tasks
+e. Prioritize them in the To-Do
+f. Plan what to do next week, move to planned, prioritize and add due dates
+g. checkout the calendar view
+<div style="text-align: center;">
+      <img alt="image" src="https://github.com/user-attachments/assets/d5a03966-52e8-4305-a69d-25491e9d407b" style="width:40%;">
+</div>  
+
+
+## STEP 9: Sign-up for upwork.com and gain some experience
+Sign up - [https://www.upwork.com](https://www.upwork.com)  
+_Note you do have to buy credits to bid for jobs
+
+The goal here is to:
+1. Show on your LinkedIn profile and resuem you are working as a consultant
+<div style="text-align: center;">
+      <img alt="image" src="[https://github.com/user-attachments/assets/d5a03966-52e8-4305-a69d-25491e9d407b](https://github.com/user-attachments/assets/5545895d-5c97-4394-b23f-c510a4ed07cf)" style="width:40%;">
+</div>  
+2. You are doing 'gigs' to create achievements you can learn from an talk about and add to your profile under this
+3. Bid low and get some experience, if anyone asks how much you made on it, they shouldnt, you can say it is < $50/hr.  you do it to gain the experience not the money.  Sucess Story - my cousin did this and ended up with a job out of it for > 1 year becuase the company liked the gigs he did.
   
-## STEP 8: Apply to 3-10(ideally 10) jobs per day
+## STEP 10: Apply to 3-10(ideally 10) jobs per day
 Take the time to create a custom resume using jobscan.co. From my experience I had 125-190 rejects submitting without taking the time to do this. The first day I did this for AWS and a recruiter called me the next day.
 
 a. Tune the resume to at least 75% in jobscan.co for each job, change your title to match the JD exactly, and remove titles unrelated so you don't cause confusion.
