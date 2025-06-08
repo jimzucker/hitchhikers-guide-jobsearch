@@ -160,13 +160,12 @@ g. checkout the calendar view
       <img alt="image" src="https://github.com/user-attachments/assets/d5a03966-52e8-4305-a69d-25491e9d407b" style="width:40%;">
 </div>  
 
-
-## STEP 9: Sign-up for upwork.com and gain some experience
+## STEP 9: (Recommended) Sign-up for upwork.com and gain some experience
 Sign up - [https://www.upwork.com](https://www.upwork.com)  
 _Note you do have to buy credits to bid for jobs
 
 The goal here is to:
-1. Show on your LinkedIn profile and resuem you are working as a consultant
+1. Show on your LinkedIn profile and resume you are working as a consultant
 <div style="text-align: center;">
       <img alt="image" src="https://github.com/user-attachments/assets/5545895d-5c97-4394-b23f-c510a4ed07cf" style="width:40%;">
 </div>  
