@@ -2,7 +2,13 @@
 
 Based on trial and error and reading a lot of blogs here are the tips and tricks I found to making it easy for Recruiters and Hiring Managers to find you and relate you to a job they are looking for.  
 
-  
+This guide is for people starting their careers who are applying online and not getting callbacks. 
+
+It focuses on beating ATS systems, aligning LinkedIn + resume signals, and making recruiters’ jobs easier — not generic career advice.
+If followed end-to-end, it can significantly increases recruiter outreach within weeks.
+
+# Table of contents
+
 ## STEP 1: Pick a job title to focus on
 
 __PICK ONE!__
