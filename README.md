@@ -285,6 +285,10 @@ https://github.com/jimzucker/hitchhikers-guide-jobsearch
 <img src="images/upwork-before-after.png" alt="Upwork profile before and after optimization" width="75%"/>
 </div>
 
+<div align="center">
+<img src="images/upwork-example2.png" alt="Upwork profile before and after optimization" width="75%"/>
+</div>
+
 ---
 
 ## 🧠 What I Changed
