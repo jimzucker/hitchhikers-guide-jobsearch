@@ -52,7 +52,7 @@ Repeat this:
 
 ---
 
-## 🔥 Before vs After
+## 🔥 Before vs After (Typical Outcome)
 
 ### ❌ Before
 
@@ -152,13 +152,13 @@ https://www.linkedin.com/in/jim-zucker/
 
 ### Titles
 
-```id="jxt8y2"
+```
 SVP → SVP | Solutions Architect
 ```
 
 ### Headline
 
-```id="pz1jks"
+```
 AWS Solutions Architect | DevOps | CI/CD
 ```
 
@@ -279,9 +279,13 @@ https://github.com/jimzucker/hitchhikers-guide-jobsearch
 
 # 📊 Real Example: My Upwork Profile Optimization
 
+> Real optimization done using this exact process
+
 <div align="center">
-<img src="images/Upwork-Initial.png" alt="Upwork profile before optimization" width="60%"/>
+<img src="images/upwork-before-after.png" alt="Upwork profile before and after optimization" width="75%"/>
 </div>
+
+---
 
 ## 🧠 What I Changed
 
@@ -290,15 +294,17 @@ https://github.com/jimzucker/hitchhikers-guide-jobsearch
 * ❌ Generic positioning
 * ✅ **CTO-Level Fintech & DevOps | AWS, CI/CD, Trading Systems**
 
+👉 Aligned with how clients search
+
 ---
 
 ### Summary
 
-* Rewritten for:
+* Rewritten to:
 
-  * Fintech niche
-  * Client alignment
-  * Outcome focus
+  * Match job descriptions
+  * Highlight fintech niche
+  * Emphasize outcomes (cost, performance, scale)
 
 ---
 
@@ -309,6 +315,8 @@ https://github.com/jimzucker/hitchhikers-guide-jobsearch
 * Kafka
 * Trading Systems
 * Cost Optimization
+
+👉 Increased visibility in search
 
 ---
 
@@ -323,9 +331,9 @@ https://github.com/jimzucker/hitchhikers-guide-jobsearch
 
 ## 📈 Result
 
-* Increased profile views
-* More inbound opportunities
-* Better consulting alignment
+* 📈 Increased profile views
+* 📩 More inbound invites
+* 🎯 Higher-quality opportunities
 
 ---
 
@@ -371,3 +379,13 @@ Upload your resume everywhere:
 If you’re not getting callbacks:
 
 > It’s not your experience — it’s your positioning.
+
+---
+
+## ⭐ If This Helped
+
+* Star the repo
+* Share it
+* Improve it
+
+---
