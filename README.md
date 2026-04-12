@@ -1,4 +1,4 @@
-# 🚀 The Hitchhiker’s Guide to Job Searches
+`# 🚀 The Hitchhiker’s Guide to Job Searches
 
 ### *How to Get Found by Recruiters (Instead of Applying Into the Void)*
 
@@ -181,7 +181,7 @@ AWS Solutions Architect | DevOps | CI/CD
 ## Easy Win (Includes Cert)
 
 * Apache Kafka Fundamentals
-  https://training.confluent.io/channeldetail/apache-kafka-fundamentals-and-accreditation
+  https://training.confluent.io/learn/courses/1073/confluent-apache-kafka-fundamentals-course-accreditation
 
 ---
 
