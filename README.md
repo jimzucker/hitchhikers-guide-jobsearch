@@ -1,19 +1,21 @@
-`# 🚀 The Hitchhiker’s Guide to Job Searches
+# 🚀 The Hitchhiker’s Guide to Job Searches
 
-### *How to Get Found by Recruiters (Instead of Applying Into the Void)*
+### How to Get Found by Recruiters (Instead of Applying Into the Void)
 
 ---
 
 ## 💡 What This Is
 
-A **practical, battle-tested system** to:
+This is a **practical system** I figured out through trial and error.
 
-* Get more recruiter outreach
-* Pass ATS filters
-* Position yourself as the **obvious candidate**
+The goal is simple:
 
-👉 This is not generic advice.
-👉 This is how hiring actually works.
+* get more recruiter outreach
+* pass ATS filters
+* make it obvious what jobs you fit
+
+👉 This is not generic advice
+👉 This is how hiring actually works
 
 ---
 
@@ -23,373 +25,404 @@ If you follow this:
 
 * 📈 2–5x more recruiter outreach (within weeks)
 * 🎯 75%+ ATS match scores
-* 💼 Better, more relevant opportunities
+* 💼 better, more relevant opportunities
 
 ---
 
 ## ⚙️ How Hiring Actually Works
 
-1. Recruiters search by **job title + keywords**
-2. ATS systems filter by **match score**
-3. Hiring managers skim resumes in **10–20 seconds**
+Most people think applying to jobs is the main path.
 
-👉 Your goal:
+It’s not.
 
-> Make it obvious you match — instantly.
+Recruiters search first.
 
----
+They use LinkedIn + ATS systems and look for:
 
-## 🔁 The Job Search Loop
+* exact job titles
+* keyword matches
+* profiles that clearly match the role
 
-Repeat this:
+If your profile doesn’t match what they search for, you won’t show up.
 
-1. Pick ONE job title
-2. Match a real job description
-3. Optimize resume to **75%+ score**
-4. Align LinkedIn
-5. Apply
-6. Repeat
+That’s why people send out 100+ applications and get nothing back.
 
 ---
 
-## 🔥 Before vs After (Typical Outcome)
+## 🎯 The Goal
 
-### ❌ Before
+You are not trying to “apply better”.
 
-* “VP of Credit Derivatives”
-* “Delivery Manager”
-* Low ATS match (~30–40%)
-* Little recruiter outreach
+You are trying to:
 
-### ✅ After
+👉 show up in recruiter searches
+👉 look like an exact match
+👉 make it easy for them to reach out
 
-* Standardized title (e.g., “Solutions Architect”)
-* 75–85%+ ATS match
-* Consistent inbound recruiter messages
+Everything below is built around that.
 
 ---
 
-# 🧭 STEP 1: Pick ONE Job Title
+# STEP 1: Pick a Job Title to Focus On
 
-## ⚠️ This is critical
+**PICK ONE.**
 
-❌ Avoid:
+Go on LinkedIn and figure out the main job title you want.
 
-* Internal / creative titles
-* “Head of XYZ”
-* “Delivery Manager”
+You will see titles like:
 
-✅ Use:
+* Delivery Manager
+* VP of Credit Derivatives
+* UI Engineer
+* MD of Structured Products
 
+A lot of these are **not standard**.
+
+ATS systems care about **exact matches**.
+
+Better titles:
+
+* Senior Software Developer
 * Solutions Architect
 * Engineering Manager
-* Senior Software Engineer
 
-👉 This is how recruiters search.
+👉 Pick one and stick to it.
 
 ---
 
-# 🧪 STEP 2: Test Your Resume (ATS)
+# STEP 2: Check if Your Resume Passes ATS
 
 Use tools like:
 
 * Jobscan
 * Resume Worded
 
-👉 Example:
-https://www.jobscan.co
+This checks:
+
+* keywords
+* formatting
+* ATS compatibility
+
+👉 Do not skip this
+
+I used Jobscan (~$70 for 3 months, 2 free scans)
+
+https://www.jobscan.co/?ref=4767321&utm_source=referral-program&utm_medium=referral&utm_campaign=10-scan-referral-program
 
 ---
 
-# 📊 STEP 3: Score Your Resume
+# STEP 3: Score Your Resume
 
-Take a job you’re a perfect fit for.
+Run your resume + LinkedIn against job descriptions.
 
-Run your resume.
+Your score will probably be lower than expected.
 
-👉 Expect:
+## Job Title Matters
 
-> Your score is lower than you think
+Match the job title **exactly**.
 
----
+Example:
 
-## 🎯 Critical Trick: Title Matching
+* JD: Manager, Engineering
+* You: Engineering Manager
 
-If the job says:
+👉 Change it
 
-* “Manager, Engineering”
+Yes it’s dumb. Do it anyway.
 
-Your resume should say:
-
-* “Manager, Engineering”
-
-👉 Exact match matters.
+It works.
 
 ---
 
-# 🛠 STEP 4: Optimize to 75%+
+# STEP 4: Build One Strong Resume
 
-* Add **Core Skills section**
-* Add **Certifications**
-* Match skills to job description
-* Rewrite bullets using JD language
-* Focus on **results, not tasks**
+Pick ONE job and optimize for it.
 
-👉 Use AI to accelerate this.
+Target:
 
----
+👉 75–80%+ score
 
-# 🔗 STEP 5: Align LinkedIn
+Do this:
 
-👉 Put ALL resume bullets into LinkedIn
+* add Core Skills
+* add Certifications
+* rename skills to match JD
+* rewrite bullets using keywords
 
-Reference:
-https://www.linkedin.com/in/jim-zucker/
+Once you hit ~75%:
 
----
-
-## 🔧 LinkedIn Optimization Checklist
-
-### Titles
-
-```
-SVP → SVP | Solutions Architect
-```
-
-### Headline
-
-```
-AWS Solutions Architect | DevOps | CI/CD
-```
-
-### Skills
-
-* Add to EVERY role
-* Duplicates OK
-* Volume matters
-
-### Profile Basics
-
-* Clean URL (first-last)
-* Professional photo
-* Strong banner
+👉 delete summary and auto-generate one
 
 ---
 
-# 🎓 Training & Certifications (HIGH IMPACT)
+# 📊 Real Example (Resume Optimization)
 
-## Easy Win (Includes Cert)
+<div align="center">
 
-* Apache Kafka Fundamentals
-  https://training.confluent.io/learn/courses/1073/confluent-apache-kafka-fundamentals-course-accreditation
+<img src="images/jobscan.png" alt="Jobscan example" width="65%"/>
 
----
-
-## Must Understand
-
-* Zero to Snowflake
-  https://www.snowflake.com/webinars/virtual-hands-on-labs/zero-to-snowflake-in-90-minutes
+</div>
 
 ---
 
-## Certifications to Add
+# STEP 5: Make LinkedIn Match Your Resume
 
-* Kafka Developer
-  https://training.confluent.io/examdetail/confluent-dev
+Recruiters compare both.
 
-* Kafka DevOps
-  https://training.confluent.io/examdetail/confluent-cloud-certified-operator®
+Do this:
 
-* AWS Cloud Practitioner
-  https://aws.amazon.com/certification/certified-cloud-practitioner/
+* copy resume bullets into LinkedIn
+* use strong bullets (don’t be shy)
+* make headline your job title
 
-* AWS / Azure / GCP / Snowflake Certifications
+Example:
 
----
+**AWS Solutions Architect | Engineering Manager**
 
-## Hands-On Labs
+Also:
 
-* https://developer.confluent.io
-* https://www.snowflake.com/en/resources/learn/snowflake-essentials-training/
+* clean email
+* public URL (first-last)
+* good photo
+* add skills (duplicates OK)
+* add certifications
 
----
-
-# 🧑‍💻 STEP 6: Portfolio Strategy
-
-## What Makes You Stand Out
-
-* Real projects
-* Before / After improvements
-* Measurable results
-* Architecture diagrams
-
-## Example Ideas
-
-* Kafka streaming pipeline
-* AWS cost optimization
-* CI/CD transformation
-* Trading system performance
-
-👉 Show proof, not claims.
+👉 Goal: make it obvious in 10 seconds
 
 ---
 
-# 🌐 STEP 7: Upwork Optimization
+# STEP 6: Turn On “Open to Work”
+
+If already on:
+
+👉 turn OFF → ON again
+
+---
+
+### Add Standard Titles
+
+<div align="center">
+
+<img src="images/OpenToWork-screen1.png" width="45%"/>
+
+</div>
+
+---
+
+### Recruiter Only
+
+<div align="center">
+
+<img src="images/OpenToWork-screen2.png" width="45%"/>
+
+</div>
+
+---
+
+### Post Publicly (Optional)
+
+<div align="center">
+
+<img src="images/open-to-work-posting.png" width="45%"/>
+
+</div>
+
+---
+
+# STEP 7: Put Your Resume Everywhere
+
+Upload + make searchable:
+
+* LinkedIn
+* Dice
+* Glassdoor
+* CareerBuilder
+* Wellfound
+* Talentify
+* TheLadders
+
+👉 More visibility = more inbound
+
+---
+
+# 🌐 STEP 8: Upwork Optimization
 
 👉 Full guide:
 https://github.com/jimzucker/hitchhikers-guide-jobsearch
 
-## Rules:
+---
 
-* Title must be searchable
-* Match job descriptions
-* Show outcomes
+## 🎯 Goal
+
+Not money (at first).
+
+Goal:
+
+* experience
+* proof
+* credibility
 
 ---
 
-# 🔓 STEP 8: Open to Work (LinkedIn)
+## ⚙️ Profile Setup
 
-> Toggle OFF → ON to boost visibility
+### Title (Most Important)
+
+Bad:
+
+* DevOps Engineer
+
+Good:
+
+* **CTO-Level Fintech & DevOps | AWS, CI/CD, Trading Systems**
+
+👉 Match search behavior
 
 ---
 
-### a. Add Standard Titles
+### Description
+
+Structure:
+
+* what you do
+* who you help
+* what results you deliver
+
+Example:
+
+> I help fintech companies build and scale trading platforms using AWS, Kafka, and CI/CD pipelines.
+
+---
+
+### Portfolio (CRITICAL)
+
+Create 3–5 items:
+
+* Kafka project
+* AWS architecture
+* CI/CD pipeline
+* trading system
+* cost optimization
+
+Each:
+
+* short description
+* 3–5 skills
+* what you delivered
+
+👉 Proof > claims
+
+---
+
+## 📊 Real Example (My Profile)
 
 <div align="center">
-<img src="images/OpenToWork-screen1.png" alt="Add standard job titles" width="45%"/>
+
+<img src="images/upwork-before-after.png" width="75%"/>
+
+</div>
+
+<div align="center">
+
+<img src="images/upwork-example2.png" width="75%"/>
+
 </div>
 
 ---
 
-### b. Recruiter-Only Visibility
+## 🧠 What Changed
 
-<div align="center">
-<img src="images/OpenToWork-screen2.png" alt="Visible to recruiters only" width="45%"/>
-</div>
+### Title
 
----
+* ❌ Generic
+* ✅ CTO-Level Fintech & DevOps
 
-### c. Publish to Network (Optional)
+### Positioning
 
-<div align="center">
-<img src="images/open-to-work-posting.png" alt="Open to work post" width="45%"/>
-</div>
+* ❌ “I do DevOps”
+* ✅ “I help fintech companies build trading systems”
 
----
+### Proof
 
-# 📊 Real Example: My Upwork Profile Optimization
+* ❌ none
+* ✅ portfolio
 
-> Real optimization done using this exact process
-
-<div align="center">
-<img src="images/upwork-before-after.png" alt="Upwork profile before and after optimization" width="75%"/>
-</div>
-
-<div align="center">
-<img src="images/upwork-example2.png" alt="Upwork profile before and after optimization" width="75%"/>
-</div>
+👉 That’s it
 
 ---
 
-## 🧠 What I Changed
+# STEP 9: (Optional) Track Your Work
 
-### Title (Highest Impact)
+Use JIRA / Kanban:
 
-* ❌ Generic positioning
-* ✅ **CTO-Level Fintech & DevOps | AWS, CI/CD, Trading Systems**
+* To Do
+* Planned
+* In Progress
+* Done
 
-👉 Aligned with how clients search
-
----
-
-### Summary
-
-* Rewritten to:
-
-  * Match job descriptions
-  * Highlight fintech niche
-  * Emphasize outcomes (cost, performance, scale)
+Treat job search like a project.
 
 ---
 
-### Skills & Keywords
+# STEP 10: Apply Smarter
 
-* AWS
-* CI/CD
-* Kafka
-* Trading Systems
-* Cost Optimization
+3–10 jobs/day.
 
-👉 Increased visibility in search
+But:
 
----
+👉 customize resume
+👉 match title exactly
+👉 hit 75%+ score
 
-### Portfolio
-
-* Shifted to:
-
-  * Real systems
-  * Measurable impact
+This is what actually works.
 
 ---
 
-## 📈 Result
+# STEP 11: Stay Active
 
-* 📈 Increased profile views
-* 📩 More inbound invites
-* 🎯 Higher-quality opportunities
+Once per week:
 
----
+* post something
+* share progress
+* show certifications
 
-## 💡 Key Takeaway
+Also:
 
-> Small positioning changes = massive visibility gains
-
----
-
-# ❌ Common Mistakes
-
-* Creative job titles
-* One resume for all jobs
-* Ignoring ATS
-* Listing tasks (not results)
-* Not aligning LinkedIn
+👉 attend 1 webinar/week
 
 ---
 
-# ✅ Final Checklist
+# 🔥 Final Thought
 
-* [ ] Title matches job
-* [ ] Resume score 75%+
-* [ ] Skills aligned
-* [ ] Bullets optimized
-* [ ] LinkedIn matches
-* [ ] Portfolio included
+Make it easy for recruiters.
 
----
+If they don’t quickly understand:
 
-# 📤 Final Step
+* what you do
+* what jobs you fit
+* why you match
 
-Upload your resume everywhere:
-
-* LinkedIn
-* Job boards
-* Recruiter platforms
+👉 they move on
 
 ---
 
-# 🧠 Final Thought
+## ⚡ Summary
 
-If you’re not getting callbacks:
+This is the system:
 
-> It’s not your experience — it’s your positioning.
+1. Pick a job title
+2. Optimize resume for ATS
+3. Match LinkedIn
+4. Show proof (portfolio)
+5. Get visibility
+6. Apply smart
+
+Do this consistently:
+
+👉 you will get inbound
 
 ---
 
-## ⭐ If This Helped
+## 👉 One Rule
 
-* Star the repo
-* Share it
-* Improve it
-
----
+**Show proof, not claims.**
