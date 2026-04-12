@@ -1,215 +1,373 @@
-# Hitch Hikers Guide to Job Searches
+# 🚀 The Hitchhiker’s Guide to Job Searches
 
-Based on trial and error and reading a lot of blogs here are the tips and tricks I found to making it easy for Recruiters and Hiring Managers to find you and relate you to a job they are looking for.  
+### *How to Get Found by Recruiters (Instead of Applying Into the Void)*
 
-This guide is for people starting their careers who are applying online and not getting callbacks. 
+---
 
-It focuses on beating ATS systems, aligning LinkedIn + resume signals, and making recruiters’ jobs easier — not generic career advice.
-If followed end-to-end, it can significantly increases recruiter outreach within weeks.
+## 💡 What This Is
 
-# Table of contents
+A **practical, battle-tested system** to:
 
-## STEP 1: Pick a job title to focus on
+* Get more recruiter outreach
+* Pass ATS filters
+* Position yourself as the **obvious candidate**
 
-__PICK ONE!__
+👉 This is not generic advice.
+👉 This is how hiring actually works.
 
-Go through LinkedIn and find what primary job title you want to apply to.
+---
 
-What you will find is titles like 'Delivery Manager', 'VP of Credit Derivatives', '<my product> UI Engineer', MD of Structured Products", etc are not industry standard titles. Although these titles will query jobs when resumes are reviewed 'exact matches' make it easier for the ATS & Hiring process to recognize your resume is a match.
+## 🎯 What You Should Expect
 
-You will find titles like 'Senior Software Developer', 'Solutions Architect', and 'Engineering Manager' are standard industry titles
+If you follow this:
 
+* 📈 2–5x more recruiter outreach (within weeks)
+* 🎯 75%+ ATS match scores
+* 💼 Better, more relevant opportunities
 
-## STEP 2: How to check if your resume will pass ATS?
-Test it with tools like Jobscan or Resume Worded to ensure it's ATS-friendly. These checks optimize keyword usage, format, and overall compatibility. Don't overlook this step—it could make a difference in landing your desired job!
+---
 
-### I selected jobscan.co(there are others)
-It's about $70 for a 3-month subscription, and you get 2 free scans to play with it.
-Here is a link for a trial:  [jobscan.co trial](https://www.jobscan.co?ref=4767321&utm_source=referral-program&utm_medium=referral&utm_campaign=10-scan-referral-program)
+## ⚙️ How Hiring Actually Works
 
-<div style="text-align: center;">
-<img src="images/jobscan.png" alt="Jobscan" style="width:40%;">
-</div>  
+1. Recruiters search by **job title + keywords**
+2. ATS systems filter by **match score**
+3. Hiring managers skim resumes in **10–20 seconds**
 
+👉 Your goal:
 
-## STEP 3: Score your current Resume
-Run your LinkedIn profile and resume through it using the Job Descriptions you think you are a perfect fit for and you will see your score is far off from what you expect.
+> Make it obvious you match — instantly.
 
-### Job Title
-Now for the resume, Change the job title at the top of your resume and similar jobs to have the exact title char for char in the JD and watch your score jump.
+---
 
-The key lesson here is you need to use the job title for the specific job, even if yours is similar if they have 'Manger, Engineering' and you have 'Engineering Manager' CHANGE IT. Look at my LI profile and see what I did with the 'AWS Solutions Architect' and 'Engineering Manager titles. [Jim Zucker LinkedIn Profile](https://www.linkedin.com/in/jim-zucker/)
+## 🔁 The Job Search Loop
 
+Repeat this:
 
-## STEP 4: Create a standard resume
-Pick one job and tune it to get a high score like 80%+, some tips on the tool:
+1. Pick ONE job title
+2. Match a real job description
+3. Optimize resume to **75%+ score**
+4. Align LinkedIn
+5. Apply
+6. Repeat
 
-a. Make sure you have 'Core Skills', and 'Certifications' sections, add them using the edit feature in the tool
+---
 
-b. You can add hard/soft skills to the skills sections, look for things you have that are close, and rename them
+## 🔥 Before vs After
 
-c. Look through your bullets and reword things using the terms you see that you don't have to increase your score.
+### ❌ Before
 
-d. Now if you click on a skill it will give you recommended bullets
-<div style="text-align: center;">
-<img src="images/AI-generated-bullets.png" alt="AI-Generated Bullets" style="width:40%;">
-</div>  
+* “VP of Credit Derivatives”
+* “Delivery Manager”
+* Low ATS match (~30–40%)
+* Little recruiter outreach
 
-e. Once you are at 75%+ remove your summary and use the tool to auto generate one for you with AI it's pretty cool.
-<div style="text-align: center;">
-<img src="images/summary-example.png" alt="Generate Summary" style="width:40%;">  
-<img src="images/AI-generate-summary.png" alt="Summary Example" style="width:40%;">  
-</div>  
+### ✅ After
 
-### Example resume before and after  
-- [My resume 'Before using JobScan'](examples/before-JimZucker.pdf)  
-- [My resume 'After tunning with JobScan'](examples/after-JimZucker.pdf)  
+* Standardized title (e.g., “Solutions Architect”)
+* 75–85%+ ATS match
+* Consistent inbound recruiter messages
 
-## STEP 5: Update your LinkedIn Profile to match the resume
+---
 
-WARNING: Don't publish yet, we will do that when we are all done and share it with your network!
+# 🧭 STEP 1: Pick ONE Job Title
 
-You are going to put all of the bullets in your resume into your LinkedIn profile, don't be shy! and use the '♦' bullet like I have in my profile [Jim Zucker LinkedIn Profile](https://www.linkedin.com/in/jim-zucker/)
+## ⚠️ This is critical
 
-a. Update each section, I know it hurts to make the titles standard, you can keep your SVP title but make it SVP <standard Title>
+❌ Avoid:
 
-b. Make sure your 'Headline' is your chose 'job title' ie AWS Solutions Architect, you can put multiple in format 'title1 | title2' but the more focused are the better.
+* Internal / creative titles
+* “Head of XYZ”
+* “Delivery Manager”
 
-c. Pick a banner for your linked in page: 
-- [10 LinkedIn Background Photo Ideas To Make Your Profile Stand Out](https://www.forbes.com/sites/josephliu/2019/06/17/linkedin-background-photo/)
+✅ Use:
 
-d. Make sure you have updated your email, contact info and also setup a public URL: 
-- [LinkedIn: Customising Your LinkedIn Public Profile URL like a Pro](https://www.linkedin.com/pulse/customising-your-linkedin-public-profile-url-like-pro-darren-keppie/)
-- [If your real name is not available as your LinkedIn public URL, what is the next best solution?](https://www.quora.com/If-your-real-name-is-not-available-as-your-LinkedIn-public-URL-what-is-the-next-best-solution)
+* Solutions Architect
+* Engineering Manager
+* Senior Software Engineer
 
-e. Updae you profile picture: 
-- [10 Tips for Taking a Professional LinkedIn Profile Photo](https://www.linkedin.com/business/talent/blog/product-tips/tips-for-taking-professional-linkedin-profile-pictures)
+👉 This is how recruiters search.
 
-f. Now pile up the skills on each experience, dupicates are OK don't be shy.
+---
 
-g. Make sure you have your certs in the certs section, if you don't have any, get some they are VERY Creditable.  
+# 🧪 STEP 2: Test Your Resume (ATS)
 
-__Pro-Tips:__ 
-- You want to make the process as easy as possible for the recruiters and hiring company.
-- Build your brand, if your email is not clear like firstname-lastname@gmail.com create a new one so communications are clear.
-- On LinkedIn make sure you have claimed a Public profile & URL and from what I read "first-last" is the best format. [Manage your public profile URL](https://www.linkedin.com/help/linkedin/answer/a542685/)
-- Make our LinkedIn profile match you're resume put all of the points from resume on your LinkedIn
-- On LinkedIn use a '♦ xxxx' for each point, you can copy paste it here, see my profile [https://www.linkedin.com/in/jim-zucker/](https://www.linkedin.com/in/jim-zucker/)
+Use tools like:
 
-### Here is one that is easy and worthwhile (it gives you a cert!)
-- [Apache Kakfa Fundamentals Accreditation](https://training.confluent.io/channeldetail/apache-kafka-fundamentals-and-accreditation) (This also gives you a cert you can put on your resume!)  
+* Jobscan
+* Resume Worded
 
-### I recommend everyone does this for SnowFlake to understand what the tech is about(no cert sorry)
-- [Zero to Snowflake in 90 minutes](https://www.snowflake.com/webinars/virtual-hands-on-labs/zero-to-snowflake-in-90-minutes-2024-08-21/?utm_source=google&utm_medium=paidsearch&utm_campaign=na-us-en-brand-core-phrase&utm_content=go-rsa-evg-vh-next-vhol-americas&utm_term=c-g-snowflake-p-657474892216&gad_source=1&gbraid=0AAAAADCzRJUUWudt4eBUxV9mZKm7CVe5f&gclid=Cj0KCQjwt4a2BhD6ARIsALgH7DoPWTSfXxDp2RWImU_eOEgRyXOD_-yajSo-NHmZOIGWHq3nu6AaPdkaAhaSEALw_wcB)  
+👉 Example:
+https://www.jobscan.co
 
-### <u>Certifications to enhance your resume</u>
-- [Kafka Developer Certification](https://training.confluent.io/examdetail/confluent-dev)  
-- [Kafka DevOps Certification](https://training.confluent.io/examdetail/confluent-cloud-certified-operator®)  
-- [AWS Cloud Practitioner(everyone should do this)](https://aws.amazon.com/certification/certified-cloud-practitioner/?trk=1d3789b7-cdfb-4b92-a125-75424f21eaaf&sc_channel=ps&ef_id=Cj0KCQjwt4a2BhD6ARIsALgH7DqindpydyQVY1KA9WOfTpU6QuxoFUStovVb2lfLM4leiygvbYnhzssaArw-EALw_wcB:G:s&s_kwcid=AL!4422!3!508672713544!e!!g!!aws%20cloud%20practitioner!11120345480!106933363382&gbraid=0AAAAADjHtp-zKLuZOSOvKx5U3tDcDdr_K&gclid=Cj0KCQjwt4a2BhD6ARIsALgH7DqindpydyQVY1KA9WOfTpU6QuxoFUStovVb2lfLM4leiygvbYnhzssaArw-EALw_wcB)  
-- [AWS Certifications](https://aws.amazon.com/certification/)  
-- [Microsoft Azure Training and Certifications](https://azure.microsoft.com/en-us/resources/training-and-certifications#self-directed-training)  
-- [Google Cloud Certification](https://cloud.google.com/learn/certification)  
-- [Snowflake Certification](https://www.snowflake.com/certifications/)  
-  
-### Some other great references to ramp up new techs
-- [Confluent Developer - hands-on labs](https://developer.confluent.io/?utm_medium=sem&utm_source=google&utm_campaign=ch.sem_br.nonbrand_tp.prs_tgt.dsa_mt.dsa_rgn.namer_lng.eng_dv.all_con.resources&utm_term=&creative=&device=c&placement=&gad_source=1&gbraid=0AAAAADRv2c0fJu7nuIcPD-cwX9-Z6qCN6&gclid=Cj0KCQjwt4a2BhD6ARIsALgH7DpQmmmNS6f74ddqjZVEONW9gCvW3zku3sAKRlnEQSj98W-Pd2yKtCsaAiFUEALw_wcB)  
-- [Snowflake Hands-On Labs(that give you a cert for your LinkedIn Profile)](https://www.snowflake.com/en/resources/learn/snowflake-essentials-training/)  
+---
 
-## STEP 6: Mark yourself 'OPEN FOR WORK'
+# 📊 STEP 3: Score Your Resume
 
-Note: If you already are set to this turn it off and back on to publish and get the LinkedIn profile out there!
+Take a job you’re a perfect fit for.
 
-a. Here put all the 'standard' titles you are interested in, I put 'Solutions Architect' and 'Engineering Manager'
-<div style="text-align: center;">
-<img src="images/OpenToWork-screen1.png" alt="Put your standard title" style="width:40%;">
-</div>  
+Run your resume.
 
-b. You can set open for work and only make it visible to recruiters
-<div style="text-align: center;">
-<img src="images/OpenToWork-screen2.png" alt="Don't show network" style="width:40%;">
-</div>    
+👉 Expect:
 
-c. YOU WANT PUBLISH to your network if you are being PUBLIC!!
-<div style="text-align: center;">
-<img src="images/open-to-work-posting.png" alt="Don't show network" style="width:40%;">
-</div>  
-  
-## STEP 7: Update your Resume on LinkedIn and all the job boards
-Note: you can make it searchable to recruiters only and you won't get that 'open to work' banner on your profile picture.
+> Your score is lower than you think
 
-a. Your LinkedIn profile has a resume, also make sure you have contact info, email, and cell phone, so when you reply to a recruiter you can share it with them automatically when prompted. [Instructions to update resume on LinkedIn](update-LinkedIn-resume.md)
+---
 
-b. Setup profiles on all of these boards nd make your resume searchable:
-- [careerbuilder.com](https://www.careerbuilder.com)
-- [dice.com](https://www.dice.com)  
-- [eFinancialcareers.co.uk](https://www.efinancialcareers.co.uk)  
-- [glassdoor.com](https://www.glassdoor.com/Community/index.htm)
-- [ihireengineering](https://www.ihireengineering.com/candidate/jobpreferences/updatejobstatus)  
-- [jobleads.com](https://www.jobleads.com/home)
-- [linkedin.com](https://www.linkedin.com/in/jim-zucker/)
-- [talentify.io](https://www.talentify.io)  
-- [theladders.com](https://www.theladders.com)
-- [wellfounded.com](https://wellfound.com)  
-  
-## STEP 8: (Opotional) - Signup for a free JIRA and run a Kanban Board
-JIRA is the most widely used task tracking systems used in software development to run KANBAN and AGILE project management.  I suggest you put all of your tasks in here in a Kanban and learn to plan a weeks tasks and manage the due dates and status on the KANBAN board.
+## 🎯 Critical Trick: Title Matching
 
-Recommend you 
-a. signup (it's FREE!) - [atlassian.com/sofware/jira]([https://wellfound.com](https://www.atlassian.com/software/jira))   
-b. pick 'Software Development' and 'Kanban' and then Tasks
-c. create steps, TO Do, Planned, In-progress & Done
-d. Enter you tasks
-e. Prioritize them in the To-Do
-f. Plan what to do next week, move to planned, prioritize and add due dates
-g. checkout the calendar view
-<div style="text-align: center;">
-      <img alt="image" src="https://github.com/user-attachments/assets/d5a03966-52e8-4305-a69d-25491e9d407b" style="width:40%;">
-</div>  
+If the job says:
 
-## STEP 9: (Recommended) Sign-up for upwork.com and gain some experience
-Sign up - [https://www.upwork.com](https://www.upwork.com)  
-_Note you do have to buy credits to bid for jobs
+* “Manager, Engineering”
 
-The goal here is to:
-1. Show on your LinkedIn profile and resume you are working as a consultant
-<div style="text-align: center;">
-      <img alt="image" src="https://github.com/user-attachments/assets/5545895d-5c97-4394-b23f-c510a4ed07cf" style="width:40%;">
-</div>  
-2. You are doing 'gigs' to create achievements you can learn from an talk about and add to your profile under this
-3. Bid low and get some experience, if anyone asks how much you made on it, they shouldnt, you can say it is < $50/hr.  you do it to gain the experience not the money.  Sucess Story - my cousin did this and ended up with a job out of it for > 1 year becuase the company liked the gigs he did.
-  
-## STEP 10: Apply to 3-10(ideally 10) jobs per day
-Take the time to create a custom resume using jobscan.co. From my experience I had 125-190 rejects submitting without taking the time to do this. The first day I did this for AWS and a recruiter called me the next day.
+Your resume should say:
 
-a. Tune the resume to at least 75% in jobscan.co for each job, change your title to match the JD exactly, and remove titles unrelated so you don't cause confusion.
+* “Manager, Engineering”
 
-b. Don't forget to delete and generate a new summary (I usually update it to add some of the soft/hard skills after AI is done)
+👉 Exact match matters.
 
-<i>TIP: Download the resume as a Word doc, suggest you change margins to 'narrow' and in some places like before core skills there are 2 blank lines remove one, try to keep the resume to 3 pages, if I'm able to do it, all of you should be able to.</i>
-<div style="text-align: center;">
-<img src="images/narrow-margin.png" alt="Don't show network" style="width:40%;">
-</div>  
+---
 
-c. After the resume is tunned, check the cover letter AI generator It is pretty cool
-  
-**Keep in mind whenever possible have somebody in your network submit your resume as a referral that gives you the highest probability of success!**
-  
-## STEP 9: Create one LinkedIn post a week and attend 1 webinar/week to stay relevant 
-Create something, celebrate completing training, or repost something relevant each week and try to attend a relevant webinar each week.
-  
-According to Hubspot's 2023 report on the best times to post on social media, the sweet spots for sharing content on LinkedIn are: Between 9 am to 12 pm, 12 to 3 pm, or 3-6 pm. Mondays, Wednesdays and Tuesdays, in that order. [The best time to post content on LinkedIn](https://www.linkedin.com/business/marketing/blog/linkedin-ads/whats-the-best-time-to-post-on-linkedin#:~:text=The%20Best%20Times%20to%20Post%20Content%20on%20LinkedIn&text=According%20to%20Hubspot%27s%202023%20report,and%20Tuesdays%2C%20in%20that%20order.)  
+# 🛠 STEP 4: Optimize to 75%+
 
-# Some great self-paced training opportunities
+* Add **Core Skills section**
+* Add **Certifications**
+* Match skills to job description
+* Rewrite bullets using JD language
+* Focus on **results, not tasks**
 
-## Intro to New Techs almost anyone can do these
-- [Zero to Snowflake in 90 minutes](https://www.snowflake.com/webinars/virtual-hands-on-labs/zero-to-snowflake-in-90-minutes-2024-08-21/?utm_source=google&utm_medium=paidsearch&utm_campaign=na-us-en-brand-core-phrase&utm_content=go-rsa-evg-vh-next-vhol-americas&utm_term=c-g-snowflake-p-657474892216&gad_source=1&gbraid=0AAAAADCzRJUUWudt4eBUxV9mZKm7CVe5f&gclid=Cj0KCQjwt4a2BhD6ARIsALgH7DoPWTSfXxDp2RWImU_eOEgRyXOD_-yajSo-NHmZOIGWHq3nu6AaPdkaAhaSEALw_wcB)  
+👉 Use AI to accelerate this.
 
-## These are more technical but not time consuming
-- [Hands On: Your First Apache Kafka® Application in 10 Minutes or Less](https://developer.confluent.io/courses/apache-kafka/get-started-hands-on/?utm_medium=nurtureemail&utm_campaign=tm.lifecycle_cd.developer-journey-nurture-using-kafka-email-8_prg.dj_rgn.global_&utm_source=marketo&mkt_tok=NTgyLVFIWC0yNjIAAAGVD7ZVA3Za8J5k49YOxM0XML5uSX562gY6hYctn1Q1y8cvI7ZTxDeV215kCNeVnoefezwVkxjFKExJp4dWx2n-OrdvoH_67zbLyFHMnt67b2MJRLE)  
-- [Apache Kakfa Fundamentals Accreditation](https://training.confluent.io/channeldetail/apache-kafka-fundamentals-and-accreditation) (This also gives you a cert you can put on your resume!) 
+---
 
-## These are super but technical and take a little time.
-- [Learn Apache Kafka® & Flink®](https://developer.confluent.io/courses/#fundamentals)
-- [Your Guide to Flink SQL: An In-Depth Exploration](https://www.confluent.io/blog/getting-started-with-apache-flink-sql/)
-- [Snowflake HANDS ON ESSENTIALS - Essentials Workshops are highly interactive, totally free, self-paced, online courses for learners who are new to Snowflake or new to data work in general **These give you badges that can generate LinkedIn posts and you can add to your LinkedIn Profile!**](https://www.snowflake.com/en/resources/learn/snowflake-essentials-training/)
+# 🔗 STEP 5: Align LinkedIn
 
+👉 Put ALL resume bullets into LinkedIn
+
+Reference:
+https://www.linkedin.com/in/jim-zucker/
+
+---
+
+## 🔧 LinkedIn Optimization Checklist
+
+### Titles
+
+```id="jxt8y2"
+SVP → SVP | Solutions Architect
+```
+
+### Headline
+
+```id="pz1jks"
+AWS Solutions Architect | DevOps | CI/CD
+```
+
+### Skills
+
+* Add to EVERY role
+* Duplicates OK
+* Volume matters
+
+### Profile Basics
+
+* Clean URL (first-last)
+* Professional photo
+* Strong banner
+
+---
+
+# 🎓 Training & Certifications (HIGH IMPACT)
+
+## Easy Win (Includes Cert)
+
+* Apache Kafka Fundamentals
+  https://training.confluent.io/channeldetail/apache-kafka-fundamentals-and-accreditation
+
+---
+
+## Must Understand
+
+* Zero to Snowflake
+  https://www.snowflake.com/webinars/virtual-hands-on-labs/zero-to-snowflake-in-90-minutes
+
+---
+
+## Certifications to Add
+
+* Kafka Developer
+  https://training.confluent.io/examdetail/confluent-dev
+
+* Kafka DevOps
+  https://training.confluent.io/examdetail/confluent-cloud-certified-operator®
+
+* AWS Cloud Practitioner
+  https://aws.amazon.com/certification/certified-cloud-practitioner/
+
+* AWS / Azure / GCP / Snowflake Certifications
+
+---
+
+## Hands-On Labs
+
+* https://developer.confluent.io
+* https://www.snowflake.com/en/resources/learn/snowflake-essentials-training/
+
+---
+
+# 🧑‍💻 STEP 6: Portfolio Strategy
+
+## What Makes You Stand Out
+
+* Real projects
+* Before / After improvements
+* Measurable results
+* Architecture diagrams
+
+## Example Ideas
+
+* Kafka streaming pipeline
+* AWS cost optimization
+* CI/CD transformation
+* Trading system performance
+
+👉 Show proof, not claims.
+
+---
+
+# 🌐 STEP 7: Upwork Optimization
+
+👉 Full guide:
+https://github.com/jimzucker/hitchhikers-guide-jobsearch
+
+## Rules:
+
+* Title must be searchable
+* Match job descriptions
+* Show outcomes
+
+---
+
+# 🔓 STEP 8: Open to Work (LinkedIn)
+
+> Toggle OFF → ON to boost visibility
+
+---
+
+### a. Add Standard Titles
+
+<div align="center">
+<img src="images/OpenToWork-screen1.png" alt="Add standard job titles" width="45%"/>
+</div>
+
+---
+
+### b. Recruiter-Only Visibility
+
+<div align="center">
+<img src="images/OpenToWork-screen2.png" alt="Visible to recruiters only" width="45%"/>
+</div>
+
+---
+
+### c. Publish to Network (Optional)
+
+<div align="center">
+<img src="images/open-to-work-posting.png" alt="Open to work post" width="45%"/>
+</div>
+
+---
+
+# 📊 Real Example: My Upwork Profile Optimization
+
+<div align="center">
+<img src="images/Upwork-Initial.png" alt="Upwork profile before optimization" width="60%"/>
+</div>
+
+## 🧠 What I Changed
+
+### Title (Highest Impact)
+
+* ❌ Generic positioning
+* ✅ **CTO-Level Fintech & DevOps | AWS, CI/CD, Trading Systems**
+
+---
+
+### Summary
+
+* Rewritten for:
+
+  * Fintech niche
+  * Client alignment
+  * Outcome focus
+
+---
+
+### Skills & Keywords
+
+* AWS
+* CI/CD
+* Kafka
+* Trading Systems
+* Cost Optimization
+
+---
+
+### Portfolio
+
+* Shifted to:
+
+  * Real systems
+  * Measurable impact
+
+---
+
+## 📈 Result
+
+* Increased profile views
+* More inbound opportunities
+* Better consulting alignment
+
+---
+
+## 💡 Key Takeaway
+
+> Small positioning changes = massive visibility gains
+
+---
+
+# ❌ Common Mistakes
+
+* Creative job titles
+* One resume for all jobs
+* Ignoring ATS
+* Listing tasks (not results)
+* Not aligning LinkedIn
+
+---
+
+# ✅ Final Checklist
+
+* [ ] Title matches job
+* [ ] Resume score 75%+
+* [ ] Skills aligned
+* [ ] Bullets optimized
+* [ ] LinkedIn matches
+* [ ] Portfolio included
+
+---
+
+# 📤 Final Step
+
+Upload your resume everywhere:
+
+* LinkedIn
+* Job boards
+* Recruiter platforms
+
+---
+
+# 🧠 Final Thought
+
+If you’re not getting callbacks:
+
+> It’s not your experience — it’s your positioning.
