@@ -95,7 +95,6 @@ Better titles:
 Use tools like:
 
 * Jobscan
-* Resume Worded
 
 This checks:
 
