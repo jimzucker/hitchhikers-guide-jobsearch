@@ -95,6 +95,7 @@ Better titles:
 Use tools like:
 
 * Jobscan
+* [ResumeAI](https://withresumeai.com/) – Free ATS checker + candidate leaderboard (State of ATS 2026: 738 employers, 704 portal-verified; Workday 37.9%)
 
 This checks:
 
